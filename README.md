@@ -7,7 +7,7 @@
     作者信息
     </p>
     <p>
-    <img src="C:/Users/Dell.DESKTOP-BQEDURH/Desktop/VTG-Task.png"/>
+    <img src="resources/VTG-Task.png" alt="VTG Task" style="width:60%; max-width:800px;"/>
     </p>
 </div>
 
