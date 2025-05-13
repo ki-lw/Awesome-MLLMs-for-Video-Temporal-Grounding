@@ -1,6 +1,8 @@
 # Awesome-MLLMs-for-Video-Temporal-Grounding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### 🔥 [A Survey on Video Temporal Grounding with Multimodal Large Language Model](https://arxiv.org/abs/xxxx)
+<h3 align="center">
+🔥 <a href="https://arxiv.org/abs/xxxx">A Survey on Video Temporal Grounding with Multimodal Large Language Model</a>
+</h3>
 
 <div align="center">
     <p>
