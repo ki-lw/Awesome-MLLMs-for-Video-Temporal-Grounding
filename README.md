@@ -23,7 +23,90 @@ This repository aims to serve as a curated reference point for researchers and p
 
 ## News
 
-## Table of Content
+## Table of Contents
+
+- [Awesome-MLLMs-for-Video-Temporal-Grounding](#awesome-mllms-for-video-temporal-grounding)
+  - [1️⃣ 🧠 Functional Roles of MLLMs in VTG-MLLMs](#funcitonal-roles)
+    - [Facilitator](#facilitator)
+    - [Executor](#executor)
+  - [2️⃣ 🛠️ Training Paradigms of VTG-MLLMs](#training-paradigms)
+    - [Pretraining](#pretraining)
+    - [Fine-Tuning](#fine-tuning)
+    - [Training-Free](#training-free)
+  - [3️⃣ 🎞️ Video Feature Processing in VTG-MLLMs](#video-feature-processing)
+    - [Visual Feature](#visual-feature)
+      - [Compression](#Compression)
+      - [Refinement](#Refinement)
+    - [Temporal Feature](#temporal-feature)
+      - [Explicit](#Explicit)
+      - [Implicit](#Implicit)
+  - [4️⃣ 📊 Tasks and Benchmarks](#tasks-and-benchmarks)
+    - [Moment Retrieval](#moment-retrieval)
+    - [Dense Captioning](#dense-captioning)
+    - [Highlight Detection](#highlight-detection)
+    - [Grounded VQA](#grounded-vqa)
+  - [5️⃣ 📬 Contact](#contact)
+
+---
+
+## 🧠 Functional Roles of MLLMs in VTG-MLLMs
+
+### Facilitator
+.
+
+### Executor
+.
+
+---
+
+## 🛠️ Training Paradigms of VTG-MLLMs
+
+### Pretraining  
+.
+
+### Fine-Tuning  
+.
+
+### Training-Free  
+.
+
+---
+
+## 🎞️ Video Feature Processing in VTG-MLLMs
+
+### Visual Feature
+
+#### Compression  
+.
+
+#### Refinement  
+.
+
+### Temporal Feature
+
+#### Explicit  
+.
+
+#### Implicit  
+.
+
+---
+
+## 📊 Tasks and Benchmarks
+
+### Moment Retrieval  
+Identify the temporal segment corresponding to a textual query.
+
+### Dense Captioning  
+Generate multiple event descriptions with accurate temporal boundaries.
+
+### Highlight Detection  
+Select keyframes or short segments that best match a given textual query.
+
+### Grounded VQA  
+Answer time-sensitive questions based on video context, grounded in specific temporal evidence.
+
+---
 
 ## Contact
 If you find our survey is useful in your research, please consider giving us a star 🌟 and cite the following paper:
