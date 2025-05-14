@@ -9,7 +9,7 @@
     作者信息
     </p>
     <p>
-    <img src="resources/VTG-Task.png" alt="VTG Task" style="width:60%; max-width:1000px;"/>
+    <img src="resources/VTG-Task.png" alt="VTG Task" style="width:80%; max-width:1200px;"/>
     </p>
 </div>
 
@@ -101,7 +101,7 @@ Identify the temporal segment corresponding to a textual query.
 Generate multiple event descriptions with accurate temporal boundaries.
 
 ### Highlight Detection  
-Select keyframes or short segments that best match a given textual query.
+Select keyframes that best match a given textual query.
 
 ### Grounded VQA  
 Answer time-sensitive questions based on video context, grounded in specific temporal evidence.
