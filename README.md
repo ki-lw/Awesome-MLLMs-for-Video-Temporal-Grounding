@@ -9,7 +9,7 @@
     作者信息
     </p>
     <p>
-    <img src="resources/VTG-Task.png" alt="VTG Task" style="width:60%; max-width:800px;"/>
+    <img src="resources/VTG-Task.png" alt="VTG Task" style="width:60%; max-width:1000px;"/>
     </p>
 </div>
 
