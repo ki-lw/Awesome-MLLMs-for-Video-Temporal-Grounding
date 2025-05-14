@@ -52,23 +52,34 @@ This repository aims to serve as a curated reference point for researchers and p
 ## 🧠 Functional Roles of MLLMs in VTG-MLLMs
 
 ### Facilitator
-.
+MLLMs generate structured textual representations from video content to support downstream modules.
+| Title | Model | Date | Link | Venue |
+| :---- | :---: | :--: | :--: | :---: |
 
 ### Executor
-.
+MLLMs directly perform temporal boundary prediction via integrated multimodal reasoning.
+| Title | Model | Date | Link | Venue |
+| :---- | :---: | :--: | :--: | :---: |
 
 ---
 
 ## 🛠️ Training Paradigms of VTG-MLLMs
 
 ### Pretraining  
-.
+Pretraining in VTG-MLLMs aims to establish strong temporal reasoning capabilities through large-scale supervised learning.
+| Title | Model | Date | Link | Venue |
+| :---- | :---: | :--: | :--: | :---: |
+
 
 ### Fine-Tuning  
-.
+Adapts general-purpose MLLMs to downstream VTG tasks through supervised fine-tuning on temporally annotated training datasets.
+| Title | Model | Date | Link | Venue |
+| :---- | :---: | :--: | :--: | :---: |
 
 ### Training-Free  
-.
+Training-free approaches integrate pre-trained foundation models with specialized expert tools through the carefully designed pipeline architecture.
+| Title | Model | Date | Link | Venue |
+| :---- | :---: | :--: | :--: | :---: |
 
 ---
 
@@ -76,19 +87,31 @@ This repository aims to serve as a curated reference point for researchers and p
 
 ### Visual Feature
 
+Efficient visual feature handling is essential for capturing more fine-grained temporal cues without overwhelming the model.
+
 #### Compression  
-.
+Directly compress visual features from densely sampled frames within budget constraints.
+| Title | Model | Date | Link | Venue |
+| :---- | :---: | :--: | :--: | :---: |
 
 #### Refinement  
-.
+Gradually refine predictions to maintain performance with the input token limitations.
+| Title | Model | Date | Link | Venue |
+| :---- | :---: | :--: | :--: | :---: |
 
 ### Temporal Feature
 
+Precise temporal feature representation and modeling is crucial for aligning visual content with fine-grained timestamp intervals, enabling accurate temporal reasoning in VTG tasks.
+
 #### Explicit  
-.
+Explicit modeling strategies directly furnish MLLMs with unambiguous temporal information, offering direct control and interpretability over temporal cues.
+| Title | Model | Date | Link | Venue |
+| :---- | :---: | :--: | :--: | :---: |
 
 #### Implicit  
-.
+Implicit modeling leverages the inherent sequential processing and reasoning capabilities of LLMs or integrates temporal context more subtly during feature extraction.
+| Title | Model | Date | Link | Venue |
+| :---- | :---: | :--: | :--: | :---: |
 
 ---
 
@@ -96,15 +119,23 @@ This repository aims to serve as a curated reference point for researchers and p
 
 ### Moment Retrieval  
 Identify the temporal segment corresponding to a textual query.
+| Title | Dataset | Date | Link | Venue |
+| :---- | :-----: | :--: | :--: | :---: |
 
 ### Dense Captioning  
 Generate multiple event descriptions with accurate temporal boundaries.
+| Title | Dataset | Date | Link | Venue |
+| :---- | :-----: | :--: | :--: | :---: 
 
 ### Highlight Detection  
 Select keyframes that best match a given textual query.
+| Title | Dataset | Date | Link | Venue |
+| :---- | :-----: | :--: | :--: | :---: 
 
 ### Grounded VQA  
 Answer time-sensitive questions based on video context, grounded in specific temporal evidence.
+| Title | Dataset | Date | Link | Venue |
+| :---- | :-----: | :--: | :--: | :---: 
 
 ---
 
