@@ -117,6 +117,8 @@ Implicit modeling leverages the inherent sequential processing and reasoning cap
 
 ## 📊 Tasks and Benchmarks
 
+🔔 Notice: Due to open-source and closed-source constraints, only **open-source datasets** are included below.
+
 ### Moment Retrieval  
 Identify the temporal segment corresponding to a textual query.
 | Title | Dataset | Date | Link | Venue |
