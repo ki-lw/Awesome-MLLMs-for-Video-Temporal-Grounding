@@ -40,12 +40,7 @@ This repository aims to serve as a curated reference point for researchers and p
     - [Temporal Feature](#temporal-feature)
       - [Explicit](#Explicit)
       - [Implicit](#Implicit)
-  - [4️⃣ 📊 Tasks and Benchmarks](#-tasks-and-benchmarks)
-    - [Moment Retrieval](#moment-retrieval)
-    - [Dense Captioning](#dense-captioning)
-    - [Highlight Detection](#highlight-detection)
-    - [Grounded VQA](#grounded-vqa)
-  - [5️⃣ 📬 Contact](#contact)
+  - [4️⃣ 📬 Contact](#contact)
 
 ---
 
@@ -239,32 +234,6 @@ Implicit modeling strategies are divided into two main types: *Feature Infusion*
 | [**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**](http://arxiv.org/abs/2312.02051) |  TimeChat   | 03/2024 | [code](https://github.com/ShuhuaiRen/TimeChat) | arXiv |
 | [**Video LLMs for Temporal Reasoning in Long Videos**](http://arxiv.org/abs/2412.02930) | TemporalVLM | 12/2024 |                    [code]()                    | arXiv |
 | [**TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning**](http://arxiv.org/abs/2410.19702) |  TimeSuite  | 10/2024 |                    [code]()                    | arXiv |
-
----
-
-## 📊 Tasks and Benchmarks
-
-🔔 Notice: Due to open-source and closed-source constraints, only **open-source datasets** are included below.
-
-### Moment Retrieval  
-Identify the temporal segment corresponding to a textual query.
-| Title | Dataset | Date | Link | Venue |
-| :---- | :-----: | :--: | :--: | :---: |
-
-### Dense Captioning  
-Generate multiple event descriptions with accurate temporal boundaries.
-| Title | Dataset | Date | Link | Venue |
-| :---- | :-----: | :--: | :--: | :---: 
-
-### Highlight Detection  
-Select keyframes that best match a given textual query.
-| Title | Dataset | Date | Link | Venue |
-| :---- | :-----: | :--: | :--: | :---: 
-
-### Grounded VQA  
-Answer time-sensitive questions based on video context, grounded in specific temporal evidence.
-| Title | Dataset | Date | Link | Venue |
-| :---- | :-----: | :--: | :--: | :---: 
 
 ---
 
