@@ -132,7 +132,6 @@ Pretraining in VTG-MLLMs aims to establish strong temporal reasoning capabilitie
 | [**ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos**](http://arxiv.org/abs/2411.14901) |    ReVisionLLM    | 11/2024 |     [project](https://github.com/Tanveer81/ReVisionLLM)      |   CVPR   |
 | [**TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability**](http://arxiv.org/abs/2411.18211) |    TimeMarker     | 11/2024 |   [project](https://github.com/TimeMarker-LLM/TimeMarker/)   |  arXiv   |
 | [**Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment**](http://arxiv.org/abs/2412.19326) |   VideoChat-TPO   | 12/2024 |         [project](https://github.com/OpenGVLab/TPO)          |  arXiv   |
-| [**Vid-Morp: Video Moment Retrieval Pretraining from Unlabeled Videos in the Wild**](http://arxiv.org/abs/2412.00811) |     ReCorrect     | 12/2024 |         [project](https://github.com/baopj/Vid-Morp)         |  arXiv   |
 | [**MLLM-TA: Leveraging Multimodal Large Language Models for Precise Temporal Video Grounding**](https://ieeexplore.ieee.org/document/10777595/) |      MLLM-TA      | 12/2024 |                              -                               | IEEE SPL |
 | [**Video LLMs for Temporal Reasoning in Long Videos**](http://arxiv.org/abs/2412.02930) |    TemporalVLM    | 12/2024 | [project](https://retrocausal.ai/wp-content/TemporalVLM.html) |  arXiv   |
 | [**TimeRefine: Temporal Grounding with Time Refining Video LLM**](http://arxiv.org/abs/2412.09601) |    TimeRefine     | 12/2024 |       [project](https://github.com/SJTUwxz/TimeRefine)       |  arXiv   |
@@ -158,6 +157,7 @@ Adapts general-purpose MLLMs to downstream VTG tasks through supervised fine-tun
 | [**Infusing Environmental Captions for Long-Form Video Language Grounding**](http://arxiv.org/abs/2408.02336) |  EI-VLG  | 08/2024 |                         -                         |  arXiv   |
 | [**Efficient Temporal Extrapolation of Multimodal Large Language Models with Temporal Grounding Bridge**](https://arxiv.org/abs/2402.16050) |   TGB    | 10/2024 | [project](https://github.com/bigai-nlco/VideoTGB) |  EMNLP   |
 | [**LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval**](http://arxiv.org/abs/2411.14505) | LLaVA-MR | 11/2024 |                         -                         |  arXiv   |
+| [**Vid-Morp: Video Moment Retrieval Pretraining from Unlabeled Videos in the Wild**](http://arxiv.org/abs/2412.00811) |     ReCorrect     | 12/2024 |         [project](https://github.com/baopj/Vid-Morp)         |  arXiv   |
 | [**VideoLights: Feature Refinement and Cross-Task Alignment Transformer for Joint Video Highlight Detection and Moment Retrieval**](http://arxiv.org/abs/2412.01558) |    VideoLights     | 12/2024 |  [project](https://github.com/dpaul06/VideoLights)   |      arXiv       |
 
 ### Training-Free  
