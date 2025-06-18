@@ -115,6 +115,7 @@ MLLMs directly perform temporal boundary prediction via integrated multimodal re
 Pretraining in VTG-MLLMs aims to establish strong temporal reasoning capabilities through large-scale supervised learning.
 | Title                                                        |       Model       |  Date   |                             Link                             |  Venue   |
 | :----------------------------------------------------------- | :---------------: | :-----: | :----------------------------------------------------------: | :------: |
+| [**Self-Chained Image-Language Model for Video Localization and Question Answering**](http://arxiv.org/abs/2305.06988) |      SeViLA       | 05/2023 |        [project](https://github.com/Yui010206/SeViLA)        | NeurIPS  |
 | [**VTimeLLM: Empower LLM to Grasp Video Moments**](http://arxiv.org/abs/2311.18445) |     VTimeLLM      | 11/2023 |       [project](https://github.com/huangb23/VTimeLLM)        |   CVPR   |
 | [**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**](http://arxiv.org/abs/2312.02051) |     TimeChat      | 12/2023 |    [project](https://github.com/RenShuhuai-Andy/TimeChat)    |   CVPR   |
 | [**GroundingGPT:Language Enhanced Multi-modal Grounding Model**](http://arxiv.org/abs/2401.06071) |   GroundingGPT    | 03/2024 | [project](https://lzw-lzw.github.io/GroundingGPT.github.io/) |   ACL    |
@@ -149,7 +150,6 @@ Pretraining in VTG-MLLMs aims to establish strong temporal reasoning capabilitie
 Adapts general-purpose MLLMs to downstream VTG tasks through supervised fine-tuning on temporally annotated training datasets.
 | Title                                                        |  Model   |  Date   |                       Link                        |  Venue   |
 | :----------------------------------------------------------- | :------: | :-----: | :-----------------------------------------------: | :------: |
-| [**Self-Chained Image-Language Model for Video Localization and Question Answering**](http://arxiv.org/abs/2305.06988) |  SeViLA  | 05/2023 |  [project](https://github.com/Yui010206/SeViLA)   | NeurIPS  |
 | [**LLaViLo: Boosting Video Moment Retrieval via Adapter-Based Multimodal Modeling**](https://ieeexplore.ieee.org/document/10350951/) | LLaViLo  | 10/2023 |                         -                         |   ICCV   |
 | [**GPTSee: Enhancing Moment Retrieval and Highlight Detection via Description-Based Similarity Features**](http://arxiv.org/abs/2403.01437) |  GPTSee  | 03/2024 |                         -                         | IEEE SPL |
 | [**Context-Enhanced Video Moment Retrieval with Large Language Models**](http://arxiv.org/abs/2405.12540) |   LMR    | 05/2024 |                         -                         |  arXiv   |
@@ -158,6 +158,7 @@ Adapts general-purpose MLLMs to downstream VTG tasks through supervised fine-tun
 | [**Infusing Environmental Captions for Long-Form Video Language Grounding**](http://arxiv.org/abs/2408.02336) |  EI-VLG  | 08/2024 |                         -                         |  arXiv   |
 | [**Efficient Temporal Extrapolation of Multimodal Large Language Models with Temporal Grounding Bridge**](https://arxiv.org/abs/2402.16050) |   TGB    | 10/2024 | [project](https://github.com/bigai-nlco/VideoTGB) |  EMNLP   |
 | [**LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval**](http://arxiv.org/abs/2411.14505) | LLaVA-MR | 11/2024 |                         -                         |  arXiv   |
+| [**VideoLights: Feature Refinement and Cross-Task Alignment Transformer for Joint Video Highlight Detection and Moment Retrieval**](http://arxiv.org/abs/2412.01558) |    VideoLights     | 12/2024 |  [project](https://github.com/dpaul06/VideoLights)   |      arXiv       |
 
 ### Training-Free  
 Training-free approaches integrate pre-trained foundation models with specialized expert tools through the carefully designed pipeline architecture.
