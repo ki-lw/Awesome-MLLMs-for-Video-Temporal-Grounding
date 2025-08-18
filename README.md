@@ -240,7 +240,11 @@ Implicit modeling strategies are divided into two main types: *Feature Infusion*
 If you find our survey is useful in your research, please consider giving us a star 🌟 and cite the following paper:
 
 ```bibtex
-@article{
+@article{wu2025surveyvideotemporalgrounding,
+  title={A Survey on Video Temporal Grounding with Multimodal Large Language Model},
+  author={Wu Jianlong and Liu Wei and Liu Ye and Liu Meng and Nie Liqiang and Lin Zhouchen and Chen Chang Wen},
+  journal = {arXiv preprint arXiv:2508.10922},
+  year={2025}
 }
 ```
 
