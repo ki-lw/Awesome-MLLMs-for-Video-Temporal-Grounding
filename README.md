@@ -6,7 +6,17 @@
 
 <div align="center">
     <p>
-    作者信息
+    <a href="https://jlwu1992.github.io/">Jianlong Wu</a><sup>1</sup>,
+    <a href="https://github.com/ki-lw">Wei Liu</a><sup>1</sup>,
+    <a href="https://yeliu.dev/">Ye Liu</a><sup>4</sup>,
+    <a href="https://mengliu1991.github.io//">Meng Liu</a><sup>2</sup>,<br>
+    <a href="https://liqiangnie.github.io/">Liqiang Nie</a><sup>1</sup>,
+    <a href="https://zhouchenlin.github.io/">Zhouchen Lin</a><sup>3</sup>,
+    <a href="https://cse.buffalo.edu/faculty/chencw/">Chang Wen Chen</a><sup>4</sup>,<br>
+    <sup>1</sup>Harbin Institute of Technology, Shenzhen, 
+    <sup>2</sup>Shandong Jianzhu University
+    <sup>3</sup>Peking University
+    <sup>4</sup>The Hong Kong Polytechnic University
     </p>
     <p>
     <img src="resources/VTG-Task.png" alt="VTG Task" style="width:70%; max-width:1100px;"/>
