@@ -14,8 +14,8 @@
     <a href="https://zhouchenlin.github.io/">Zhouchen Lin</a><sup>3</sup>,
     <a href="https://cse.buffalo.edu/faculty/chencw/">Chang Wen Chen</a><sup>4</sup>,<br>
     <sup>1</sup>Harbin Institute of Technology, Shenzhen, 
-    <sup>2</sup>Shandong Jianzhu University
-    <sup>3</sup>Peking University
+    <sup>2</sup>Shandong Jianzhu University,<br>
+    <sup>3</sup>Peking University,
     <sup>4</sup>The Hong Kong Polytechnic University
     </p>
     <p>
