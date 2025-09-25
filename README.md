@@ -33,6 +33,8 @@ This repository aims to serve as a curated reference point for researchers and p
 
 ## News
 
+- [2025.09.23] The survey has been accepted to IEEE TPAMI.
+
 ## Table of Contents
 
 - [Awesome-MLLMs-for-Video-Temporal-Grounding](#awesome-mllms-for-video-temporal-grounding-)
