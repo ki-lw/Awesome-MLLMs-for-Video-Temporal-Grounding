@@ -1,7 +1,7 @@
 # Awesome-MLLMs-for-Video-Temporal-Grounding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <h3 align="center">
-🔥 <a href="https://arxiv.org/abs/xxxx">A Survey on Video Temporal Grounding with Multimodal Large Language Model</a>
+🔥 <a href="https://arxiv.org/abs/2508.10922">A Survey on Video Temporal Grounding with Multimodal Large Language Model</a>
 </h3>
 
 <div align="center">
@@ -33,7 +33,7 @@ This repository aims to serve as a curated reference point for researchers and p
 
 ## News
 
-- [2025.09.23] The survey has been accepted to IEEE TPAMI.
+- [2025.09.23] The survey has been accepted to [IEEE TPAMI](https://doi.org/10.1109/TPAMI.2025.3615586).
 
 ## Table of Contents
 
